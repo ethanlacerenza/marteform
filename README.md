@@ -1,7 +1,5 @@
-# HellForm: Infrastructure Deployment for Red Teamers
+# marteform : Infrastructure Deployment for Red Teamers
 
-
-<img src="https://github.com/ethanlacerenza/HellForm/assets/71321892/fd616c28-40d8-40ae-bc04-6b4beee838a4" alt="_4ab55bbc-a1db-462f-b261-36b3b5ea6fcf" style="width:40%;">
 
 ## Overview
 
