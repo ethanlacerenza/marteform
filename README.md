@@ -1,6 +1,6 @@
 # marteform : Infrastructure Deployment for Red Teamers
+![Red Team2](https://github.com/ethanlacerenza/marteform/assets/71321892/5115efd0-090f-4d85-9e8e-9b851ffdbe7e)
 
-![Red Team](https://github.com/ethanlacerenza/marteform/assets/71321892/afaad3e6-2a42-4192-8cc7-e61926d97977)
 
 ## Overview
 
