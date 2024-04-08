@@ -1,21 +1,22 @@
 # marteform : Infrastructure Deployment for Red Teamers
 
+![Red Team](https://github.com/ethanlacerenza/marteform/assets/71321892/afaad3e6-2a42-4192-8cc7-e61926d97977)
 
 ## Overview
 
-Welcome to HellForm, a powerful tool designed for attackers to rapidly deploy infrastructure for offensive operations. With HellForm, you can quickly provision and configure resources to support your red team engagements, penetration testing activities, and other offensive security tasks.
+Welcome to marteform, a powerful tool designed for attackers to rapidly deploy infrastructure for offensive operations. With marteform, you can quickly provision and configure resources to support your red team engagements, penetration testing activities, and other offensive security tasks.
 
 ## Features
 
-- **Rapid Deployment**: HellForm streamlines the process of deploying infrastructure, allowing you to set up environments quickly for your offensive operations.
-- **Infrastructure as Code (IaC)**: Utilizing TerraForm, HellForm enables infrastructure provisioning through code, ensuring consistency and repeatability across deployments.
-- **Customizable Templates**: HellForm includes customizable TerraForm templates tailored for various attack scenarios, providing flexibility and ease of use.
-- **Scalability**: Whether you need a single instance or a complex network of resources, HellForm can scale to meet the requirements of your offensive campaigns.
-- **Documentation**: Comprehensive documentation is provided to guide you through the setup and usage of HellForm.
+- **Rapid Deployment**: marteform streamlines the process of deploying infrastructure, allowing you to set up environments quickly for your offensive operations.
+- **Infrastructure as Code (IaC)**: Utilizing TerraForm, marteform enables infrastructure provisioning through code, ensuring consistency and repeatability across deployments.
+- **Customizable Templates**: marteform includes customizable TerraForm templates tailored for various attack scenarios, providing flexibility and ease of use.
+- **Scalability**: Whether you need a single instance or a complex network of resources, marteform can scale to meet the requirements of your offensive campaigns.
+- **Documentation**: Comprehensive documentation is provided to guide you through the setup and usage of marteform.
 
 ## Getting Started
 
-Follow these steps to start using HellForm:
+Follow these steps to start using marteform:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
 
@@ -31,15 +32,15 @@ Follow these steps to start using HellForm:
 
 ## Contributing
 
-Contributions to HellForm are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request.
+Contributions to marteform are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request.
 
 ## Disclaimer
 
-**HellForm is intended for educational and research purposes only. Unauthorized use of this tool for malicious activities is strictly prohibited. The developers are not responsible for any misuse or damage caused by HellForm. Use it responsibly and ethically.**
+**marteform is intended for educational and research purposes only. Unauthorized use of this tool for malicious activities is strictly prohibited. The developers are not responsible for any misuse or damage caused by marteform. Use it responsibly and ethically.**
 
 ## License
 
-HellForm is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+marteform is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 For more information and detailed usage instructions, please refer to the documentation provided in the repository.
 
