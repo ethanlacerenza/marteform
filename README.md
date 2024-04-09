@@ -1,9 +1,11 @@
-# marteform : Infrastructure Deployment for Red Teamers
+# MARTEFORM : Infrastructure Deployment for Red Teamers
 
-![Red Team2](https://github.com/ethanlacerenza/marteform/assets/71321892/32477b7a-3ace-41fc-a156-fef1018f7121)
+![Marteform](https://github.com/ethanlacerenza/marteform/assets/71321892/dfd4d3e4-7a5e-4c5b-be83-da991c2e17fd)
 
 
 ## Overview
+
+![Red Team2](https://github.com/ethanlacerenza/marteform/assets/71321892/32477b7a-3ace-41fc-a156-fef1018f7121)
 
 Welcome to marteform, a powerful tool designed for attackers to rapidly deploy infrastructure for offensive operations. With marteform, you can quickly provision and configure resources to support your red team engagements, penetration testing activities, and other offensive security tasks.
 
