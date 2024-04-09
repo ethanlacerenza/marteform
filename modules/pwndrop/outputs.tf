@@ -1,5 +1,5 @@
 # -------------------------------------------------------------
-# Marsform: Red Teaming Infrastructure Deployment System
+# marteform: Red Teaming Infrastructure Deployment System
 # Developed by Ethan Lacerenza
 #
 # Terraform-based system for deploying infrastructure tailored
